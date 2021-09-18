@@ -15,7 +15,7 @@
 -------
 ## ```Deploy```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Self-bot-wa/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rasssya76/Self-bot-wa/)
 
 ## `Run`
 
